@@ -31,17 +31,20 @@
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mysql/mysql-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
- 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
 
 ---
 
-<div style="display: flex; justify-content: flex-start; align-items: flex-start; flex-direction: row">
-    <div>
-        <img style="height: 15rem; width: 15rem;" src="https://github-readme-stats.vercel.app/api?username=VietDungTran0412&show_icons=true&theme=radical" />
-    </div>
-    <div style="margin-left: 1.5rem">
-        <img style="height: 15rem; width: 15rem;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VietDungTran0412&layout=compact&theme=radical" />
-    </div>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=VietDungTran0412&show_icons=true&locale=en&theme=dark" alt="arefin090" />
+      </td>
+      <td>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VietDungTran0412&show_icons=true&locale=en&layout=compact&theme=dark" alt="arefin090" />
+      </td>
+    </tr>
+  </table>
 </div>
