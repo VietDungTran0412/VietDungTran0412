@@ -40,7 +40,7 @@
 
 <div style="display: flex; justify-content: flex-start; align-items: flex-start; flex-direction: row">
     <div>
-        <img style="height: 15rem;" src="https://github-readme-stats.vercel.app/api?username=VietDungTran0412&show_icons=true&theme=radical" />
+        <img style="height: 15rem; width: 20rem;" src="https://github-readme-stats.vercel.app/api?username=VietDungTran0412&show_icons=true&theme=radical" />
     </div>
     <div style="margin-left: 1.5rem">
         <img style="height: 15rem; width: 25rem;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VietDungTran0412&layout=compact&theme=radical" />
