@@ -1,5 +1,5 @@
 ## Hi there, I am Daniel 👋
-<hr/>
+
 ### A recent full-stack developer with a Bachelor Degree in CS
 
 - 🔭 I’m currently working on as a full-stack ASP .NET Developer
