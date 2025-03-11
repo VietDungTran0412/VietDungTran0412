@@ -27,7 +27,6 @@
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
 <a href="https://www.spring.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/spring/spring-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mysql/mysql-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
@@ -40,9 +39,9 @@
 
 <div style="display: flex; justify-content: flex-start; align-items: flex-start; flex-direction: row">
     <div>
-        <img style="height: 15rem; width: 20rem;" src="https://github-readme-stats.vercel.app/api?username=VietDungTran0412&show_icons=true&theme=radical" />
+        <img style="height: 15rem; width: 15rem;" src="https://github-readme-stats.vercel.app/api?username=VietDungTran0412&show_icons=true&theme=radical" />
     </div>
     <div style="margin-left: 1.5rem">
-        <img style="height: 15rem; width: 25rem;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VietDungTran0412&layout=compact&theme=radical" />
+        <img style="height: 15rem; width: 15rem;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VietDungTran0412&layout=compact&theme=radical" />
     </div>
 </div>
