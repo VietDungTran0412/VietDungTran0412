@@ -16,10 +16,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viet-dung-tran-daniel/)
 
 ---
-### Certification
-[![Certification](img_1.png)](https://www.credly.com/badges/ece86762-4dbd-4e96-9f5d-c374f7dcba7c/public_url)
-
----
 
 ### Languages and Tools:
 <p align="left"> 
@@ -48,3 +44,8 @@
     </tr>
   </table>
 </div>
+
+---
+
+### Certification
+[![Certification](img_1.png)](https://www.credly.com/badges/ece86762-4dbd-4e96-9f5d-c374f7dcba7c/public_url)
